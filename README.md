@@ -1,6 +1,6 @@
 # Analyzing_Home-Loan-Dataset
 
-<img width="669" height="623" alt="image" src="https://github.com/user-attachments/assets/4387be30-1f81-4c02-9770-a3126b3ffc7e" />
+<img width="808" height="745" alt="image" src="https://github.com/user-attachments/assets/6a5c4fbf-465c-4390-880c-816419134c4b" />
 
 Project Overview
 This report provides a comprehensive analysis of the Home Loan dataset, examining the demographic, financial, and behavioral factors that influence loan approvals and rejections. The dataset includes key information such as applicant income, credit history, loan amount, gender, marital status, and property type. Through this analysis, we aim to uncover patterns that help financial institutions optimize lending decisions, mitigate risk, and improve customer satisfaction.
